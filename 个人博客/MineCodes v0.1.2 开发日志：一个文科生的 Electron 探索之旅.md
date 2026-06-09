@@ -25,11 +25,11 @@
 
 ![指令笔记截图](https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-05-03/ZWa6rJaOAHDT9PAj.png)
 
-笔记保存在本地的 JSON 文件，ni也可以手动编辑。
+笔记保存在本地的 JSON 文件，你也可以手动编辑。
 
-### 物品 ID 查询：找物品不用再切网页
+### 物品 ID 查询：使用 `/give` 不用再切网页
 
-`/give` 指令写起来最烦的就是记物品 ID。以前我自己的习惯是浏览器里一直开着 Minecraft Wiki 的物品列表页，切来切去真的很打断思路。
+`/give` 指令记起来非常简单，`/给予 谁 什么 多少个`，zui'ma'f。以前我自己的习惯是浏览器里一直开着 Minecraft Wiki 的物品列表页，切来切去真的很打断思路。
 
 现在内置了一个物品 ID 查询模块：
 
@@ -152,5 +152,5 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 *本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTY4OTk3Nl19
+eyJoaXN0b3J5IjpbNDA2NDk0ODc3XX0=
 -->
