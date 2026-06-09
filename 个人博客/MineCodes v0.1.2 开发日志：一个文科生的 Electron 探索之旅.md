@@ -1,7 +1,9 @@
+
+---
 title: MineCodes v0.3.0 开发日志：一个文科生的 Electron 探索之旅
 published: 2026-05-04
 description: 'MineCodes 是一个为 Minecraft 玩家准备的辅助工具 —— 查指令、找物品 ID、存笔记，一站式搞定。'
-image: "https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-06-09/V9kbN4EYaj9xq4mv.png"
+image: "https://cdn.jsdelivr.net/gh/Zionyas-Van/stackedit-app-data@master/imgs/2026-06-09/V9kbN4EYaj9xq4mv.png"
 tags: ["开发日志", "日记", "Minecraft", "我的世界"]
 category: '开发日志'
 draft: false 
@@ -32,7 +34,7 @@ lang: ''
 
 这次更新了一个 **指令笔记** 功能。主界面右侧为笔记输入区，你可以在查阅指令的同时，顺手把自己的理解或者简化写法记录下来：
 
-![指令笔记截图](https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-05-03/ZWa6rJaOAHDT9PAj.png)
+![指令笔记截图](https://cdn.jsdelivr.net/gh/Zionyas-Van/stackedit-app-data@master/imgs/2026-05-03/ZWa6rJaOAHDT9PAj.png)
 
 笔记保存在本地的 JSON 文件，你也可以手动编辑。
 
@@ -43,7 +45,7 @@ lang: ''
 现在，我在《MineCodes》里增加了一个物品ID查询的功能。
 
 
-![物品ID查询截图](https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-05-03/BJAIrji1OuepzwgJ.png)
+![物品ID查询截图](https://cdn.jsdelivr.net/gh/Zionyas-Van/stackedit-app-data@master/imgs/2026-05-03/BJAIrji1OuepzwgJ.png)
 
 搜索框输入中文名或英文名都能匹配，点击直接复制 ID，顺手就能拿去写指令。目前覆盖了 Java 版的主流物品，后续会持续补充。
 
@@ -51,7 +53,7 @@ lang: ''
 
 大多数人都只有晚上有时间玩游戏，浅色的界面很刺眼。新版本做了深色模式适配，目前只支持手动切换，后续会尝试支持跟随系统主题：
 
-![深色模式截图](https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-05-03/LUn6ACHhex06kRVv.png)
+![深色模式截图](https://cdn.jsdelivr.net/gh/Zionyas-Van/stackedit-app-data@master/imgs/2026-05-03/LUn6ACHhex06kRVv.png)
 
 ---
 
@@ -65,7 +67,7 @@ lang: ''
 
 收藏功能的实现其实很简单 —— 就是一个本地存储的 ID 数组，收藏的指令会单独列在“收藏夹”视图里。但难的是如何让用户一眼就知道哪个指令被收藏了，以及在收藏夹列表怎么方便地取消收藏。前后改了三次交互逻辑，现在的方案是：每个卡片右上角有一个爱心图标，点击即收藏/取消，虽然状态还没能实现实时同步。
 
-![收藏示例](https://raw.githubusercontent.com/Zionyas-Van/stackedit-app-data/master/imgs/2026-05-01/8gajfHUZhf76POrS.png)
+![收藏示例](https://cdn.jsdelivr.net/gh/Zionyas-Van/stackedit-app-data@master/imgs/2026-05-01/8gajfHUZhf76POrS.png)
 
 ### 功能 2：物品 ID 查询 —— 数据源怎么来的？
 
@@ -143,5 +145,6 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 *本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU5MDM0MjldfQ==
+eyJoaXN0b3J5IjpbLTE2MjYzNjQyMzYsLTE1ODU5MDM0MjldfQ
+==
 -->
