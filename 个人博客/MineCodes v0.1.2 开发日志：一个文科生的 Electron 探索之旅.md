@@ -107,9 +107,9 @@
 
 ## 写在最后
 
-这个项目对我个人来说，最大的意义可能不在于做出多厉害的工具，而是我能够做我自己x
+这个项目对我个人来说，最大的意义可能不在于做出多厉害的工具，而是我能够做我自己想做的事，并且把他做得超乎我自己的预期。
 
-说实话，这个过程挺折磨的。但每次看着屏幕上跑起一个自己写的新功能，那种成就感确实是打游戏刷副本给不了的。
+这个过程很麻烦。但每次看着屏幕上跑起一个自己写的新功能，这种成就感真的非常上头。
 
 MineCodes 会持续更新。接下来几个版本的计划包括：
 
@@ -117,11 +117,11 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 - 支持更多 Minecraft 版本的数据切换；
 - 笔记模块增加导出为 Markdown / PDF 功能。
 
-目前 MineCodes 已在 GitHub 开源，欢迎 Star 或提交 PR：
+目前 MineCodes 已在 GitHub 开源：
 
 [https://github.com/Zionyas-Van/MineCodes](https://github.com/Zionyas-Van/MineCodes)
 
-**特别感谢**：YasVnite，在开发过程中给了我不少指导，尤其是 Electron 打包流程的调试，没有他我现在可能还在跟路径问题死磕。
+**特别感谢**：YasVnite
 
 如果你在使用中遇到问题，欢迎通过邮箱联系我：2223857511@qq.com，或者直接在 GitHub Issues 区提出来，我会尽量回复。
 
@@ -134,5 +134,5 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 *本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ2MzgyMjJdfQ==
+eyJoaXN0b3J5IjpbMTg4Nzk1OTEzOF19
 -->
