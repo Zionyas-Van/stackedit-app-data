@@ -2,7 +2,6 @@
 
 > **MineCodes** 是一个为 Minecraft 玩家打造的辅助工具 —— 查指令、找物品 ID、存笔记，一站式搞定。
 
-2026年6月9日 · 0 条评论 · 258 次阅读 · 12 人点赞 · ZionyasVan
 
 ---
 
@@ -153,5 +152,5 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 *本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDYyMjMyNF19
+eyJoaXN0b3J5IjpbMTAzNTg0MjMyOV19
 -->
